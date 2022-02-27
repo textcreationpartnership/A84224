@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The examination of Colonell Lunsford, Colonell Vavasor, Captaine Noes, Lieutenant Colonell Ballard, Sergeant Major Wallis, Cornet Strangewaies, Lieutenant VVh[i]te, Sergeant Iones, and Mr. Bland, Delinquents. Who were taken in the fight at Kineton in VVarwickshire, and were committed to VVarwicke Castle, and on the 17. of November were examined upon some particular articles. Whereunto is annexed a speech of Colonell Lunsfords, which hee spake at his examination.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84224</idno>
+            <idno type="STC">Wing E3715</idno>
+            <idno type="STC">Thomason E127_29</idno>
+            <idno type="STC">ESTC R18047</idno>
+            <idno type="EEBO-CITATION">99860334</idno>
+            <idno type="PROQUEST">99860334</idno>
+            <idno type="VID">112454</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112454)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The examination of Colonell Lunsford, Colonell Vavasor, Captaine Noes, Lieutenant Colonell Ballard, Sergeant Major Wallis, Cornet Strangewaies, Lieutenant VVh[i]te, Sergeant Iones, and Mr. Bland, Delinquents. Who were taken in the fight at Kineton in VVarwickshire, and were committed to VVarwicke Castle, and on the 17. of November were examined upon some particular articles. Whereunto is annexed a speech of Colonell Lunsfords, which hee spake at his examination.</title>
+                  <author>Lunsford, Thomas, Sir, 1610?-1653?</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Cooke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Novemb. 19. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy p. [7], following caption title: A speech of Colonell Lunsfords.. "This was formerly printed &amp; spoke by another".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prisoners and prisons --  Early works to 1800.</term>
+               <term>Kineton (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112454:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>THE EXAMINATION OF Colonell <hi>Lunsford,</hi> Colonell <hi>Vavaſor,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Noes,</hi> Lieutenant Colonell <hi>Ballard,</hi> Sergeant Major <hi>Wallis,</hi> Cornet <hi>Strangewaies,</hi> Lieutenant <hi>VVh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te,</hi> Sergeant <hi>Iones,</hi> and Mr. <hi>Bland,</hi> Delinquents.</p>
+            <p>Who were taken in the Fight at <hi>Kineton</hi> in <hi>VVarwickſhire,</hi> and were committed to <hi>VVar<g ref="char:EOLhyphen"/>wicke</hi> Caſtle, and on the the 17. of Novem<g ref="char:EOLhyphen"/>ber were examined upon ſome particular Articles.</p>
+            <p>Whereunto is annexed a SPEECH OF Colonell <hi>Lunsfords,</hi> which hee ſpake at his Examination.</p>
+            <p>Printed for <hi>Tho. Cooke. Novemb.</hi> 19. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="examination">
+            <pb facs="tcp:112454:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb facs="tcp:112454:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <figDesc>royal insignia</figDesc>
+               </figure>
+            </head>
+            <head>The Examination of Colonell <hi>Lunsford,</hi> Colonell <hi>Vavaſor,</hi> &amp;c.</head>
+            <p n="1">1. REport was made, that upon the Examination of Colonell <hi>Luns<g ref="char:EOLhyphen"/>ford,</hi> he was found to have a tre<g ref="char:EOLhyphen"/>cherous intent and a private conſpiracie with the Delinquents, to betray it into the hands of of the Malignants, reſident in the City and Suburbs, and whoſe ex<g ref="char:EOLhyphen"/>mination conſiſteth of theſe 3. heads, <hi>viz.</hi>
+            </p>
+            <p n="1">I. Concerning the Delinquents in the Tower.</p>
+            <p n="2">II. The Lord <hi>Digby</hi> and <hi>French</hi> is con<g ref="char:EOLhyphen"/>cerned in this Conſpiracie.</p>
+            <p n="3">III. His urgent provoking Sir <hi>John Byron</hi> to aſſiſt his Majeſty againſt the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>
+               <pb facs="tcp:112454:3"/>
+               <!-- PDF PAGE 3 -->
+Colonell <hi>Uavaſors</hi> exammination was reported, who ſaies, that he had no hand in the conſpiracy; onely Colonell <hi>Lunſford</hi> invited him to Liſt himſelfe in the number of his Majeſties Comman<g ref="char:EOLhyphen"/>ders, in this preſent deſigne, and imploy<g ref="char:EOLhyphen"/>ment of his Maieſties ſervice.</p>
+            <p>Captaine <hi>Noes</hi> exammination was re<g ref="char:EOLhyphen"/>ported, who depoſeth and ſaith, Captain <hi>Legg</hi> his eſcape was firſt practiſed by the Earle of <hi>Northampton,</hi> who ſent ſeverall ſummes of money toward his lollity a<g ref="char:EOLhyphen"/>mong the Saylors that he might the better thereby worke his owne ends, as afterwards it ſo happened.</p>
+            <p>Leivetennant Colonell <hi>Ballards</hi> ex<g ref="char:EOLhyphen"/>ammination was reported by Mr. <hi>Staply,</hi> that Captain <hi>Chidley</hi> had brought down to the Army many inſtuctions from the Earle of <hi>Lindſey</hi> Lord Generall, and that Colonell <hi>Goring</hi> ſhould be Leivetenant Generall of the Army, and that Prince <hi>Rupert</hi> and the Earle of Newcaſtle with their ſeverall troopes of horſe ſhould
+<pb facs="tcp:112454:3"/>
+               <!-- PDF PAGE 3 -->meet the Lord Generall in Nottingham<g ref="char:EOLhyphen"/>ſhere and there to take into their charg the Dragoones formerly appointed to be raiſed by his Maieſties command, all which inſtructions came from <hi>Mr. Hol<g ref="char:EOLhyphen"/>borne,</hi> and were diſperſed by Captaine <hi>Cihdly.</hi>
+            </p>
+            <p>Sergeant Maior <hi>Wallis</hi> upon his ex<g ref="char:EOLhyphen"/>ammination ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith, that the French would aſſiſt his Maieſty, and that the Biſhops and other the Clergy would at their own charge maintaine 2000 horſe, with a collection through all their Dioceſſes for three tenthes at the leaſt, or more if occaſion ſhall require.</p>
+            <p>Colonell <hi>Strangewayes,</hi> upon his exam<g ref="char:EOLhyphen"/>mination ſayes that he is tyed up by an oath of ſecrecy, and therefore durſt not anſwer to any of the interrogato<g ref="char:EOLhyphen"/>ryes, which oath he ſaies was given him by Maſter <hi>Peirce</hi> his Cham<g ref="char:EOLhyphen"/>ber
+<pb facs="tcp:112454:4"/>
+               <!-- PDF PAGE 4 -->Chamber in the preſence of Commiſſary <hi>Wilmot,</hi> which refuſeth to make any fur<g ref="char:EOLhyphen"/>ther anſwer hereto.</p>
+            <p>Lieutenant <hi>White,</hi> Sergeant <hi>Jones,</hi> their Examinations, who ſaid, That they had taken this Oath, and that they were ur<g ref="char:EOLhyphen"/>ged to take it by Colonell <hi>Aſhburnham</hi> and Captaine <hi>Pollard.</hi>
+            </p>
+            <p>Mr. <hi>Bland</hi> upon his Examination up<g ref="char:EOLhyphen"/>on the 7. Article, ſaith, That the ſeven Prieſts landed at <hi>Foy</hi> in <hi>Cornwall,</hi> hee was commanded with other troopes belong<g ref="char:EOLhyphen"/>ing to Sir <hi>Bevill Greenvile,</hi> to couvey them to the Marquis of <hi>Hartford</hi> at <hi>Sher<g ref="char:EOLhyphen"/>borne,</hi> which went after into <hi>Wales</hi> with the Marquis, and what ſince is become of them, he cannot further depoſe.</p>
+            <div type="speech">
+               <pb facs="tcp:112454:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 4 -->
+               <head>A Speech of Colonell <hi>Lunsfords,</hi> upon <hi>His Examination.</hi>
+               </head>
+               <p>I Stand here before you a Priſoner accuſed of High Treaſon, and Liberty is offered mee, 'tis true, but like Merchants you value it at ſuch a rare, that my Fidelity, and all that is due to a No<g ref="char:EOLhyphen"/>ble Minde, muſt be the price to purchaſe it: If I refuſe what you propound, Racke, Torture, Loſſe of Goods, Lands, and perhaps Life it ſelfe threat<g ref="char:EOLhyphen"/>ned: Hard choyſe, yet I muſt chooſe; It is in my power to be a Free-man, but how? If I will be a ſlave, I have already given my Faith unto my Prince, upon whoſe Head this Crowne, by all Law of Nature and Nations doth juſtly appertain. Shall I falſifie that Faith? (Hea<g ref="char:EOLhyphen"/>ven forbid) In that word <hi>Prince</hi> there is a Deity incloſed, who wounds them, wounds the Divine Nature: Why then ſhall I draw my Sword under ſo holy a Vayle, was Religion ever built in blood? Did the Primitive Church ever propagate the Goſpel with other then their owne blood, which they at all times patiently ſhed, not only for God, but their Princes. I have read, that as the Devill was the firſt Rebell, ſo <hi>Iudas</hi> was the only Traitor amongſt the Apoſtles; And ſhall wee ranke our ſelves amongſt thoſe hated examples of Diſloyal<g ref="char:EOLhyphen"/>tie
+<pb facs="tcp:112454:5"/>
+                  <!-- PDF PAGE 5 -->and treachery, (God forbid) beſides Traytors are hatefull to all Princes, ſee therefore what will be the end of ſuch ill grounded VVarr, I ſee the miſery with horror that attends it, waſting of goods, ruining of townes, and Cities, and the un<g ref="char:EOLhyphen"/>iuſt liberty which we uſurp loſt in an inſtant, and wife, children, and blood, which man holds deare: if we pitty not ourſelves let us pitty thoſe we hold deare; Kings have power to ſubdue the ſtubborneſt, therefore this bleſſed arme that ſtretcheth out to receive us, when all is a wilder<g ref="char:EOLhyphen"/>neſſe we ſhall beg that which we now refuſe, for my part <hi>I</hi> am in your power, and know not how this Speech will be taken, howſoever you diſpoſe of me, I will never ſtaine mine Aunceſtors, nor leave the title of Traytor upon my poſterity, but will end with the ſaying of that worthy gen<g ref="char:EOLhyphen"/>tleman <hi>M. H.</hi> you may when you pleaſe take my head from my ſhoulders but not my heart from my Soveraigne.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
